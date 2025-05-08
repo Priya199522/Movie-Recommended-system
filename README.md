@@ -1,3 +1,5 @@
+Movie-Recommended-system
+
 • Collected a movie dataset from the web and performed comprehensive data preprocessing to prepare it for analysis and modeling.
 
 • Applied Vectorization in Natural Language Processing (NLP) to process movie titles, descriptions, and genres.
